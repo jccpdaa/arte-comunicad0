@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Comunicación y Arte</title>
+    <link href="https://jccpdaa.github.io/arte-comunicad0/feed.xml" rel="self" />
+    <link href="https://jccpdaa.github.io/arte-comunicad0" />
+    <updated>2025-09-04T02:08:59-05:00</updated>
+    <author>
+        <name>Camilo Cepeda</name>
+    </author>
+    <id>https://jccpdaa.github.io/arte-comunicad0</id>
+
+    <entry>
+        <title>Composición visual en Inkscape</title>
+        <author>
+            <name>Camilo Cepeda</name>
+        </author>
+        <link href="https://jccpdaa.github.io/arte-comunicad0/mi-composicion-visual-en-inkscape.html"/>
+        <id>https://jccpdaa.github.io/arte-comunicad0/mi-composicion-visual-en-inkscape.html</id>
+        <media:content url="https://jccpdaa.github.io/arte-comunicad0/media/posts/2/AM.png" medium="image" />
+            <category term="Composición visual"/>
+
+        <updated>2025-08-24T13:52:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jccpdaa.github.io/arte-comunicad0/media/posts/2/AM.png" alt="" />
+                    Composición inspirada en una de las representaciones más comunes del personaje "AM"&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jccpdaa.github.io/arte-comunicad0/media/posts/2/AM.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://jccpdaa.github.io/arte-comunicad0/media/posts/2/AM-2.png" alt="Composición inspirada en una de las representaciones más comunes del personaje &quot;AM&quot; de la novela I have no mouth and i must scream escrita por Harlan Ellison" width="1080" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://jccpdaa.github.io/arte-comunicad0/media/posts/2/responsive/AM-2-xs.png 300w ,https://jccpdaa.github.io/arte-comunicad0/media/posts/2/responsive/AM-2-sm.png 480w ,https://jccpdaa.github.io/arte-comunicad0/media/posts/2/responsive/AM-2-md.png 768w ,https://jccpdaa.github.io/arte-comunicad0/media/posts/2/responsive/AM-2-lg.png 1024w"><figcaption>Composición inspirada en una de las representaciones más comunes del personaje "AM" de la novela <em>I have no mouth and I must scream </em>escrita por Harlan Ellison.</figcaption></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
